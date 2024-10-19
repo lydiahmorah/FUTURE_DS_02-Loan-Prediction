@@ -1,3 +1,11 @@
+# Project Description
+
+- This project focuses on predicting bank loan approvals using machine learning techniques.
+
+- By analyzing historical loan data, we built and evaluated several models to identify key factors influencing loan approval decisions. 
+
+- The Random Forest Classifier emerged as the best-performing model, significantly improving prediction accuracy.
+
 # Steps Followed
 
 1.	Data Loading and Initial Exploration
